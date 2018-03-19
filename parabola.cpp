@@ -1,14 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////       
-// parabola.cpp
-//
-// This program draws a line strip with vertices on a parabola.
-// Increasing the number of vertices makes the strip approximate the parabola.
-//
-// Interaction:
-// Press +/- to increase/decrease the number of vertices of the strip.
-//
-// Sumanta Guha.
-//////////////////////////////////////////////////////////////////////////////   
 
 #include <cstdlib>
 #include <cmath>
